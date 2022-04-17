@@ -1,0 +1,35 @@
+body {
+  background-color: #6998AB;
+}
+
+h1{
+  color: red;
+  font-size: 200px; }
+
+img:hover {
+  background-color: gold;
+}
+
+.bacon{
+  background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%
+}
+
+#heading{
+  color: blue;
+}
+
+h3{color: #C84B31;}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
